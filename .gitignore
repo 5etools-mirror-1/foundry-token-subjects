@@ -1,0 +1,11 @@
+# IDE Files
+.idea/
+*.iml
+*.vcs
+
+# Node
+node_modules
+hs_err_*.log
+
+# Converter
+converter
