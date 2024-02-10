@@ -4,7 +4,7 @@
 *.vcs
 
 # Node
-node_modules
+node_modules/
 hs_err_*.log
 
 # Converter
