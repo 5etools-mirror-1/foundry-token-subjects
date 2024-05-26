@@ -2,12 +2,5 @@
 	"name": "foundry-token-subjects",
 	"private": true,
 	"type": "module",
-	"license": "UNLICENSED",
-	"scripts": {
-		"test:js": "eslint . --ext .js,.cjs,.mjs",
-		"lint:js": "npm run test:js -- --fix"
-	},
-	"devDependencies": {
-		"eslint": "^8.56.0"
-	}
+	"license": "UNLICENSED"
 }
